@@ -5,12 +5,11 @@ Python3.7
 
 ## Requirements
 * Your computer should have been installed some package
-  * numpy
-  * pillow
-  
+  * numpy 
   ```
   pip3.7 install numpy
   ```
+  * pillow
   ```
   pip3.7 install pillow
   ```
